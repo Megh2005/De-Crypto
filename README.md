@@ -7,13 +7,13 @@ Decrypto is a web application with which most trending crypto currencies can be 
 > Clone This Repository
 
 ```sh
-git clone https://github.com/Megh2005/Chatopedia.git
+git clone https://github.com/Megh2005/De-Crypto.git
 ```
 
 > Navigate To The Code File
 
 ```sh
-cd Chatopedia
+cd De-Crypto
 ```
 
 > Install All Dependencies
